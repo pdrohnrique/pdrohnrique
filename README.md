@@ -25,3 +25,5 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </div>
+
+## Eu sou Desenvolvedor de Jogos Iniciante e gosto de matemática, livros e basquete!
