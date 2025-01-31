@@ -1,4 +1,4 @@
-### Olá, eu sou o Pedro! 🤝
+### Hi, as you might had saw, I'm Pedro 🤝
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/pdro_hnrique)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.santos2@escolar.ifrn.edu.br)
@@ -27,4 +27,4 @@
 </div>
 
 ## Sobre mim
-Eu sou Desenvolvedor de Jogos Iniciante e gosto de matemática, livros e basquete!
+I'm a completely begginer game dev, also, I like to play chess, basketball and read fiction books. 
