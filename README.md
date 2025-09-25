@@ -1,6 +1,6 @@
 ### Hi, as you may have seen, I'm Pedro 🤝
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/pdro_hnrique/#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/pdro_hnrique)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.santos2@escolar.ifrn.edu.br)
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdrohnrique&show_icons=true&theme=dark)
