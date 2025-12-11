@@ -1,7 +1,3 @@
-### Hi, as you may have seen, I'm Pedro 🤝
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdrohnrique&show_icons=true&theme=dark)
-
 ## Tecnologias que uso
 
 <div style="display: inline_block"><br/>
